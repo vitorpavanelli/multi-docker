@@ -15,6 +15,14 @@ class App extends Component {
                         <h1 className="App-title">Welcome to React</h1>
                         <Link to="/">Home</Link>
                         <Link to="/otherpage">Other Page</Link>
+                        <a
+                            className="App-link"
+                            href="https://reactjs.org"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            Learn React
+                        </a>
                     </header>
                     <div>
                         <Route exact path="/" component={Fib} />
