@@ -65,3 +65,5 @@ J
 k8s/worker-deployment.yaml,2/7/27710eef61c15fc43342c4cdd3d961332950585d
 J
 k8s/server-deployment.yaml,3/6/36f28031ddc0022e673e05f81b7ba013fa2533e6
+<
+skaffold.yml,1/4/149df088284c3a2ccaec14634d1457b5af4fd81b
